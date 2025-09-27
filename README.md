@@ -1,6 +1,7 @@
 # 💫 About Me:
-Currently in my final year at EPITA School of Engineering, specializing in SCIA-G (Data Science, AI & Graphs).<br>On this account I will publish my personal projects to develop further my skills in machine learning !
-
+I am currently in my final year at EPITA School of Engineering, specializing in SCIA-G (Data Science, AI & Graphs).
+On this account, I share my personal projects to further develop my skills in machine learning!
+To learn more about my work, feel free to visit my personal website: <a href="https://pf-greg.vercel.app/" target="_blank">https://pf-greg.vercel.app/</a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sysmix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gr%C3%A9goire-suissa-9b756028b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gregoire.suissa@gmail.com) 
