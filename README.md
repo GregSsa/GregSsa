@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am currently in my final year at EPITA School of Engineering, specializing in SCIA-G (Data Science, AI & Graphs).
-On this account, I share my personal projects to further develop my skills in machine learning!
+I am currently in my final year at EPITA School of Engineering, specializing in SCIA-G (Data Science, AI & Graphs).<br>
+On this account, I share my personal projects to further develop my skills in machine learning!<br>
 To learn more about my work, feel free to visit my personal website: <a href="https://pf-greg.vercel.app/" target="_blank">https://pf-greg.vercel.app/</a>
 
 ## 🌐 Socials:
